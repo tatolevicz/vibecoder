@@ -400,6 +400,9 @@ import './contrib/dropOrPasteInto/browser/dropOrPasteInto.contribution.js';
 
 // Simple Button Example
 import './contrib/customSidebar/browser/customSidebar.contribution.js';
+
+// Empty View Example
+import './contrib/emptyView/browser/emptyView.contribution.js';
 import { AllowedExtensionsService } from '../platform/extensionManagement/common/allowedExtensionsService.js';
 
 
